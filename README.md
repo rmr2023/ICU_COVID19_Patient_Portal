@@ -1,4 +1,5 @@
-# ICU_COVID19_Patient_Portal
+# PACRR1_COVID19_Patient_Portal
+
 Health Portal for ICU Hospitalized COVID19 Patients
 Objective
 Through using the Post-Acute Covid-19 Patients Rehab and Recovery Patients Portal (PACRR), patients who recently received care in the ICU (Intensive Care Unit) and/or long hospitalization can manage their health and monitor their progress in a holistic and centralized way. Specifically, these patients can:
